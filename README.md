@@ -1,4 +1,99 @@
-## Hi there 👋
+# 👋 Hello — I’m Mehdi Mousavi
+
+<p align="center">
+  <a href="https://github.com/mehdi-msv"><img alt="profile" src="https://github.com/mehdi-msv.png" width="150" style="border-radius:50%"></a>
+</p>
+
+### ✨ About me
+
+I’m a **Junior Python Developer** focused on building clean, maintainable Django applications. I enjoy learning production-ready practices (Docker, background tasks, deployment) and improving my skills in backend engineering.
+
+---
+
+## 🧭 Languages & Tools
+
+<p align="center">
+  <!-- Python -->
+  <a href="https://www.python.org" title="Python">
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="36" height="36" style="margin:6px"/>
+  </a>
+
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" title="Django">
+    <img src="https://cdn.simpleicons.org/django/092E20" alt="Django" width="36" height="36" style="margin:6px"/>
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="36" height="36" style="margin:6px"/>
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="36" height="36" style="margin:6px"/>
+  </a>
+
+  <!-- Redis -->
+  <a href="https://redis.io/" title="Redis">
+    <img src="https://cdn.simpleicons.org/redis/D82C20" alt="Redis" width="36" height="36" style="margin:6px"/>
+  </a>
+
+  <!-- Celery -->
+  <a href="https://docs.celeryq.dev/" title="Celery">
+    <img src="https://cdn.simpleicons.org/celery/4B8BBE" alt="Celery" width="36" height="36" style="margin:6px"/>
+  </a>
+
+  <!-- Nginx -->
+  <a href="https://nginx.org/" title="Nginx">
+    <img src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" width="36" height="36" style="margin:6px"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="36" height="36" style="margin:6px"/>
+  </a>
+
+  <!-- + Your requested icons -->
+  <!-- GitHub -->
+  <a href="https://github.com/mehdi-msv" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="36" height="36" style="margin:6px"/>
+  </a>
+
+  <!-- CapRover -->
+  <a href="https://caprover.com/" title="CapRover">
+    <img src="https://cdn.simpleicons.org/caprover/EF5C26" alt="CapRover" width="36" height="36" style="margin:6px"/>
+  </a>
+
+  <!-- Linux -->
+  <a href="https://www.kernel.org/" title="Linux">
+    <img src="https://cdn.simpleicons.org/linux/000000" alt="Linux" width="36" height="36" style="margin:6px"/>
+  </a>
+
+  <!-- Postman -->
+  <a href="https://www.postman.com/" title="Postman">
+    <img src="https://cdn.simpleicons.org/postman/EF5B25" alt="Postman" width="36" height="36" style="margin:6px"/>
+  </a>
+
+  <!-- MinIO -->
+  <a href="https://min.io/" title="MinIO">
+    <img src="https://cdn.simpleicons.org/minio/C72C48" alt="MinIO" width="36" height="36" style="margin:6px"/>
+  </a>
+</p>
+
+---
+
+## 📫 Contact
+
+If you want to get in touch for collaboration, questions, or code review:
+
+* **Email:** `mehdi.mousavi.rad1@gmail.com`
+* **GitHub:** [github.com/mehdi-msv](https://github.com/mehdi-msv)
+
+---
+
+## 🔎 About work & availability
+
+I’m a Python developer focused on Django. I build clean, maintainable web applications and continually expand my backend and deployment skills. I’m open to collaboration, mentorship, and projects.
 
 <!--
 **mehdi-msv/mehdi-msv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
