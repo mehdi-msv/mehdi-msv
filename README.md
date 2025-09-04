@@ -1,9 +1,5 @@
 # 👋 Hello — I’m Mehdi Mousavi
 
-<p align="center">
-  <a href="https://github.com/mehdi-msv"><img alt="profile" src="https://github.com/mehdi-msv.png" width="150" style="border-radius:50%"></a>
-</p>
-
 ### ✨ About me
 
 I’m a **Junior Python Developer** focused on building clean, maintainable Django applications. I enjoy learning production-ready practices (Docker, background tasks, deployment) and improving my skills in backend engineering.
