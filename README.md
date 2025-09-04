@@ -2,7 +2,7 @@
 
 ### ✨ About me
 
-I’m a **Junior Python Developer** focused on Django. I enjoy writing clean, maintainable code and continuously explore production-ready practices such as Docker, deployment workflows, and background task management to sharpen my backend engineering skills.
+I’m a **Python Developer** focused on **Django**. I enjoy writing clean, maintainable code and continuously explore production-ready practices such as Docker, deployment workflows, and background task management to sharpen my backend engineering skills.
 
 ---
 
