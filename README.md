@@ -49,12 +49,6 @@ I’m a **Junior Python Developer** focused on building clean, maintainable Djan
     <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="36" height="36" style="margin:6px"/>
   </a>
 
-  <!-- + Your requested icons -->
-  <!-- GitHub -->
-  <a href="https://github.com/mehdi-msv" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="36" height="36" style="margin:6px"/>
-  </a>
-
   <!-- CapRover -->
   <a href="https://caprover.com/" title="CapRover">
     <img src="https://cdn.simpleicons.org/caprover/EF5C26" alt="CapRover" width="36" height="36" style="margin:6px"/>
