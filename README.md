@@ -2,7 +2,7 @@
 
 ### ✨ About me
 
-I’m a **Junior Python Developer** focused on building clean, maintainable Django applications. I enjoy learning production-ready practices (Docker, background tasks, deployment) and improving my skills in backend engineering.
+I’m a **Junior Python Developer** focused on Django. I enjoy writing clean, maintainable code and continuously explore production-ready practices such as Docker, deployment workflows, and background task management to sharpen my backend engineering skills.
 
 ---
 
@@ -81,9 +81,9 @@ If you want to get in touch for collaboration, questions, or code review:
 
 ---
 
-## 🔎 About work & availability
+## 🔎 Work & collaboration
 
-I’m a Python developer focused on Django. I build clean, maintainable web applications and continually expand my backend and deployment skills. I’m open to collaboration, mentorship, and projects.
+I’m open to contributing to Django-based projects, collaborating with teams, and learning from experienced developers. I’m also interested in mentorship opportunities and backend challenges that push me to grow and apply best practices in real-world scenarios.
 
 <!--
 **mehdi-msv/mehdi-msv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
